@@ -1,3 +1,3 @@
 # FailFasterStudios.github.io
 Im kaleb carbone
-[Mazerunner](GameHolder)
+[Mazerunner](GameHolder/index.html)
