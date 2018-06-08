@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KidsPlayground",
+"dataUrl": "PlaygroundProjectStarter.data.unityweb",
+"asmCodeUrl": "PlaygroundProjectStarter.asm.code.unityweb",
+"asmMemoryUrl": "PlaygroundProjectStarter.asm.memory.unityweb",
+"asmFrameworkUrl": "PlaygroundProjectStarter.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
