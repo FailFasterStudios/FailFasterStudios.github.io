@@ -1,4 +1,3 @@
 # FailFasterStudios.github.io
 Im kaleb carbone
-[Mazerunner](GameHolder/index.html)
-[FutBol](HolderOfGames/index.html)
+[Soccer](https://FailFasterStudios.github.io/GamesOfHolder/index.html)
